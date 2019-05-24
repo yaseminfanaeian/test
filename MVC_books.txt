@@ -1,0 +1,5 @@
+Walther, S. (2010). ASP.NET MVC Framework Unleashed. Pearson Education, Inc.
+
+Rolando, J. and Paz, G. (2013). Beginning ASP.NET MVC 4. Apress.
+
+Galloway, J., Wilson, B., Allen, K.S. & Matson, D.  (2014).  Professional ASP.NET MVC 5.  Wrox/Wiley.
